@@ -1,0 +1,18 @@
+﻿@font-face{
+font-family:"hmampersand";
+src:url("../fonts/hmampersand-bold.ttf") format("truetype")
+}
+
+@font-face{
+font-family:"hmampersandregular";
+src:url("../fonts/hmampersand-regular.ttf") format("truetype")
+}
+@font-face{
+font-family:"hmampersandlight";
+src:url("../fonts/hmampersand-light.ttf") format("truetype")
+}
+
+@font-face{
+font-family:"hmampersandultralight";
+src:url("../fonts/hmampersand-ultralight.ttf") format("truetype")
+}
